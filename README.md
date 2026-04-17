@@ -1,5 +1,7 @@
 # POCKET ID - IdentifyProvider
 
+Self host Pocket ID identity provider behind Traefik reverse proxy with Let's Encrypt TLS certificate.
+
 --- 
 
 ## How to use
